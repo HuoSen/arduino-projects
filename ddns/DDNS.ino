@@ -5,6 +5,7 @@
 		clean up and comment
 	
 	Licence CC = CC BY-SA
+	Tested on Arduino Xboard, written by Jose
 */
 
 
