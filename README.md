@@ -7,3 +7,6 @@ Arduino projects
 Several small Arduino based projects.
 
 * *DDNS* − A simple, but useful library for DDNS on your Arduino board
+
+
+Download and unpack in your Arduino libraries folder.
