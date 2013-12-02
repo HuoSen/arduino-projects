@@ -9,14 +9,14 @@ Building and further instructions to be discussed on the forum link posted.
 
 All bug fixing and testing much appreciated
 
-Several small Arduino based projects.
 
-* *DDNS* − A simple, but useful library for DDNS on your Arduino board
+
+
+
+
 
 
 For information on installing libraries, see: http://arduino.cc/en/Guide/Libraries
-
-
 
 ![Creative Commons Licenced](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
