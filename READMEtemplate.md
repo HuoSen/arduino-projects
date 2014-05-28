@@ -80,3 +80,18 @@ _Examples of common tasks_
 Several small Arduino based projects made for fun
 
 * *Project* − A nice project
+* 
+
+
+## Git Resources:
+
+* https://help.github.com/articles/set-up-git
+* http://stackoverflow.com/questions/6565357/git-push-requires-username-and-password
+* http://rogerdudler.github.io/git-guide/
+* https://help.github.com/articles/github-flavored-markdown
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
+
+
