@@ -64,9 +64,8 @@ _Examples of common tasks_
 
 ## Contributing changes
 
-- _Join the forums for dev discussions_
+- _Join the forums for dev discussions or suggestions ( www.dfrobot.com/forum )_
 - _More information at DFRobot technical support_
-- _irc channel #DFRobot at Freenode_
 - _"Please open github issues"_
 
 ## License
