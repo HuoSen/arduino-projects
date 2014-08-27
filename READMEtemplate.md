@@ -89,6 +89,8 @@ Several small Arduino based projects made for fun
 * http://rogerdudler.github.io/git-guide/
 * https://help.github.com/articles/github-flavored-markdown
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* http://lifehacker.com/5983680/how-the-heck-do-i-use-github   (mac)
+* 
 
 
 
